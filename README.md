@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Horror Game<br>🌱 I’m currently learning Flutter & Unity<br>
+🔭 I’m currently working on a Car Game<br>🌱 I’m currently learning Flutter & Unity<br>
 
 
 ## 🌐 Socials:
