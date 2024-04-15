@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Car Game<br>🌱 I’m currently learning Flutter & Unity<br>
+🔭 I’m currently working on my backend skills with Node.js <br>🌱 still using unity to learn more and create some amazing games <br>
 
 
 ## 🌐 Socials:
